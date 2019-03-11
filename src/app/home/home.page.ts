@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+nome : string= "IONIC";
+clicar () :  void {
+  alert("parabens voce clicou aqui");
+}
+clicar () :  void {
+  alert("parabens voce clicou aqui");
+}
 }
